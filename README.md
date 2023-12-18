@@ -16,7 +16,7 @@ You must have a manager base role in order to add the integration to a PagerDuty
 
 # Support
 
-If you need help with this integration, please contact <support@pagerduty.com>.
+If you need help with this integration, please create an issue in this repo.
 
 Integration Walkthrough
 
