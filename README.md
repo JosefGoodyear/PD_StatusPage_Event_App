@@ -18,7 +18,6 @@ You must have a manager base role in order to add the integration to a PagerDuty
 
 If you need help with this integration, please create an issue in this repo.
 
-Integration Walkthrough
 
 
 # In PagerDuty
